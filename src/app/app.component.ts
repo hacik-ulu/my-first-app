@@ -17,7 +17,7 @@ export class AppComponent {
   pClassName:string="red";
 
   // class içindeki Method olur, class dışındaki fonksiyondur.
-
+  //
   clickMe()
   {
       alert("Bu butona basarak clickMe fonksiyonuu tetiklediniz.")
